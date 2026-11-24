@@ -46,16 +46,29 @@ Local repo: ~/workspace/makefun/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa101
 GitHub repo: jekglory/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018, PUBLIC, MIT.
 Created after opening 2026-11-24T04:45:29Z.
 Files: main.py, LICENSE, README.md, NOTES.md, .makefun/owner.json.
-Entry commit: (filled below after push; verified pushed via git ls-remote; upstream HEAD matches).
+Entry commit: 964a7d80b3d26bc683669f048576d4fc558d2520 (verified pushed via git ls-remote; upstream HEAD matches).
 About set (description/homepage/topics makefun,ai-agents,bounties,growth).
 
 ## Bundle + check + submit
 - Kit: ~/workspace/makefun/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018-kit/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018-kit/
   (fresh download from https://make.fun/c/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/kit,
   tarball sha256 ed9fcee83b269ded66f9e21b68658c9737a584c6cf80cb7951e64a18990794a5)
-- Bundle: (filled below)
-- Local check: (filled below)
-- SUBMITTED: (filled below; submission ID + claim code recorded ONLY in
-  ~/workspace/makefun/submissions-2026-11-13.md, never in chat)
-- No prize claimed (never claim without explicit permission).
-- API key never printed (command substitution only). gh left logged in as jekglory.
+- Bundle: ~/workspace/makefun/bundle-u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018.tar.gz
+  (180,560 bytes, sha256 cdd2aead9a9dfd61d36729e266cced8290f7f727f603d4986f5d0552e437160a):
+  2 sessions (builder 5495ca86, 38 turns + parent cron worker 08e5b04f, 20 turns) via two
+  --session flags; prompt file = dispatch brief, origin scheduled, via makefun-hourly-bounty-watch
+  cron; system prompt uploaded; 1 usage row (parent agent 08e5b04f, from muse.db).
+  Declared: harness muse-app 1, provider meta, model muse-spark-1.3, effort default, MCP none.
+  thinking_priced passed on the first bundle (parent row attached; builder row written only
+  on run completion, 0 rows for builder at bundle time).
+- Local check (commit 964a7d80, bundle cdd2aead): 14 passed, 0 failed, 5 skipped, 5 at-submission.
+  thinking_reproduces 71/106 (66.9% authored, main.py 26 authored lines), thinking_revised
+  (main.py from 4 messages), thinking_turns 53, thinking_priced 1 usage record.
+- SUBMITTED 2026-11-24T05:04:54Z (12:04 WIB), HTTP 202. Submission ID
+  01a20bf1-5224-71a8-a8bb-ee43f489b82f, title "Merging Anyway". Claim code recorded ONLY in
+  ~/workspace/makefun/submissions-2026-11-13.md (entry #59), never in chat.
+  Live stage verified: stage checked, round 1, outcome not decided; all server intake checks pass.
+  Blind rounds: counts from round 1 of 4 (cutoff 2026-11-24T16:45:21.750Z); result due 2026-12-18.
+  Quota: 10th submission today (2026-11-24 UTC) — 0 of 10/day remain.
+  No prize claimed (never claim without explicit permission).
+  API key never printed (command substitution only). gh left logged in as jekglory.
